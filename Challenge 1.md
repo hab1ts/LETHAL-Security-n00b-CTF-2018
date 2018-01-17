@@ -12,4 +12,4 @@ From there, simply browsing through the dump revealed the flag.
 
 ![img 2](https://github.com/hab1ts/LETHAL-Security-n00b-CTF-2018/blob/master/CTF%20Images/c1_2.png)
 
-**thisflagistooeasy**
+flag: **thisflagistooeasy**
