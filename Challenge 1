@@ -1,11 +1,11 @@
 # Challenge 1
 
 The only information given about this file was that it was linux-based.
-Running <b>file</b> on the file revealed it to be a 32-bit executable.
+Running **file** on the file revealed it to be a 32-bit executable.
 
 Executing the file wrote "First Challenge for noobCTF!" to the console
 
-Using hexdump -C allowed the executable to be disassembled into human readable format.
+Using **hexdump -C** allowed the executable to be disassembled into human readable format.
 From there, simply browsing through the dump revealed the flag
 
-<b>thisflagistooeasy</b>
+**thisflagistooeasy**
