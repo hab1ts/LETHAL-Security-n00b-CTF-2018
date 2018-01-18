@@ -25,4 +25,5 @@ Eventually, I entered the passphrase into the box and the flag popped out
 <p align="center">
 <img src="https://github.com/hab1ts/LETHAL-Security-n00b-CTF-2018/blob/master/CTF%20Images/c3_4.png">
 </p>
+
 **FLAG: thatwasntthekonamicode**
