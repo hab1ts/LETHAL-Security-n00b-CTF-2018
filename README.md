@@ -20,3 +20,4 @@ Below are links to each individual challenge and how I solved each one.
 * <a href="https://github.com/hab1ts/LETHAL-Security-n00b-CTF-2018/blob/master/Challenge%206.md"> Challenge 6 </a>
 * <a href="https://github.com/hab1ts/LETHAL-Security-n00b-CTF-2018/blob/master/Challenge%207.md"> Challenge 7 </a>
 * <a href="https://github.com/hab1ts/LETHAL-Security-n00b-CTF-2018/blob/master/Challenge%208.md"> Challenge 8 </a>
+* <a href="https://github.com/hab1ts/LETHAL-Security-n00b-CTF-2018/blob/master/Challenge%209.md"> Challenge 9 </a>
