@@ -1,6 +1,6 @@
 # Challenge 4
 
-Running file showed the file to be a 64-bit executable. After running the program, we are prompted to enter a number that is compared to the "winning" number.
+Running file showed the file to be a 64-bit executable. After running the program, we are prompted to enter a number that is compared to the "winning" number. Any disassembler will do, but I learned how to use **GDB** a long time ago in a low level programming class, so it's my go to tool.
 Disassembling the file revealed several interesting parts:
 * The number uses srand, a starting seed value, and time.
 * The generated random number is compared to our input.
