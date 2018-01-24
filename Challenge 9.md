@@ -6,7 +6,15 @@ At the CTF round up, we were presented with a badge that could be used to comple
 
 On the back of the badge was the first clue to deciphering the message. Based purely on the visual aspect of the clue, this appeared to be a **Base64** encoded string. Running the string through CyberChef, the output was shown to be **What is the 76th letter?**
 
+<p align="center">
+<img src="https://github.com/hab1ts/LETHAL-Security-n00b-CTF-2018/blob/master/CTF%20Images/IMG_3994.JPG">
+</p>
+
 Since there are not 76 letters in the English alphabet, my first instinct was to go to an ASCII table. Looking up the value for the 76th character in an ASCII table showed the letter to be **L**.  On the front of the badge was 8 switches. These 8 switches match up with 1 byte. Thus, converting L into binary, **01001100** gives us the answer for step 2. For this, we're greeted with the device turning on.
+
+<p align="center">
+<img src="https://github.com/hab1ts/LETHAL-Security-n00b-CTF-2018/blob/master/CTF%20Images/IMG_3993.JPG">
+</p>
 
 The final step of the challenge was to decipher the message in the mp3 file. The badge has a microphone input and two filters, one low pass and one high pass. One must then adjust each such that only the lower set of LEDS blink in accordance with the mp3 file. The first step was to tune the right filter such that the lower LEDS were barely dim. Next, plug in a 3.5 mm audio cable to the audio out. As the mp3 file is playing, tune the left filter such that the top 4 lights stop blinking.
 
